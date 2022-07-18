@@ -5,9 +5,9 @@
 #include<string.h>
 using namespace std;
 class Market{
-    string name="K";//oyal Ghosh";
-    string email="k";//oyal@gmail.com";
-    string pass="ko";//yal@123";
+    string name="Your name";
+    string email="Email";
+    string pass="password";
     int productCode;
     string productName;
     int discount;
