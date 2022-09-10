@@ -1,4 +1,4 @@
-//Make "Market.txt" 
+//Create "Market.txt" 
 
 #include<iostream>
 #include<fstream>
@@ -42,7 +42,7 @@ class Market{
             exit(0);
         }
         cout<<"\nSuccessfully recognised...\n";
-        cout<<"\n                   Welcome back KOYAL GHOSH\n";
+        cout<<"\n                   Welcome back "<<name<<"\n";
         adminFunction();
     }
     void displayList(){
